@@ -1,0 +1,5 @@
+C:/projects/Agneay_AR Marker App/.utmp/RelWithDebInfo/1y2c2y6q/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/projects/Agneay_AR Marker App/.utmp/RelWithDebInfo/1y2c2y6q/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/projects/Agneay_AR Marker App/.utmp/RelWithDebInfo/1y2c2y6q/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/projects/Agneay_AR Marker App/.utmp/RelWithDebInfo/1y2c2y6q/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/projects/Agneay_AR Marker App/.utmp/RelWithDebInfo/1y2c2y6q/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
